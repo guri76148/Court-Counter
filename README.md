@@ -1,2 +1,2 @@
 # Court-Counter
-BasketBall count game for 2 Players
+Anroid app for counting Baskets for 2 Players
